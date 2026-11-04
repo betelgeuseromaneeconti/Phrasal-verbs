@@ -1,0 +1,6 @@
+{
+  "name": "Phrasal Verbs Compendium",
+  "description": "Complete interactive English phrasal verbs reference and learning application across 50 Focus sections with definitions, dual examples, audio pronunciation, flashcards, quizzes, and offline PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
